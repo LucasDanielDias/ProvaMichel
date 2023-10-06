@@ -47,6 +47,7 @@ public class Att2 {
         System.out.println("Os tintura são " + cont4);
         System.out.println("Os demaquilante são " + cont5);
         System.out.println("Os vazios são " + cont0);
+        System.out.println("fim");
         }
     }
 
