@@ -10,8 +10,8 @@ public class Att2 {
         int cont5 = 0;
         int cont0 = 0;
         Scanner ler = new Scanner(System.in);
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
+        for (int i = 0; i < 40; i++) {
+            for (int j = 0; j < 40; j++) {
                 System.out.println("Digite o produto que você quer");
                 ler = new Scanner(System.in);
                 matriz[i][j] = ler.nextInt();
